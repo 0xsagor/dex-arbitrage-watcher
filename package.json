@@ -1,0 +1,10 @@
+{
+  "name": "dex-arbitrage-watcher",
+  "version": "1.0.0",
+  "description": "Cross-DEX price monitoring and arbitrage detection",
+  "main": "monitor.js",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "dotenv": "^16.4.0"
+  }
+}
